@@ -1,0 +1,14 @@
+{
+  "name": "@tarojs/plugin-image-lazyloading",
+  "version": "1.0.0",
+  "description": "image lazyloading",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "lazyloading"
+  ],
+  "author": "liuxiajiang",
+  "license": "ISC"
+}
