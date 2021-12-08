@@ -37,5 +37,6 @@
     "@types/minio": "^7.0.4",
     "rollup-plugin-typescript2": "^0.25.3",
     "typescript": "^3.7.3"
-  }
+  },
+  "gitHead": "21d3c68d6c3c469a55f01d96a06d227d1fe232f2"
 }
