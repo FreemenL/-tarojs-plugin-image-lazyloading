@@ -5,7 +5,8 @@
     "publish": "cd ./packages/taro && npm run build && lerna publish "
   },
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
   },
   "repository": {
     "type": "git",
