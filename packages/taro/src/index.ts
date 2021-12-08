@@ -7,7 +7,7 @@ export default (ctx: IPluginContext, pluginOpts) => {
   })
 
   ctx.onBuildFinish(() => {
-    console.log('IPluginContext 编译结束111！')
+    console.log('IPluginContext 编译结束111!')
   })
-  
+
 }
