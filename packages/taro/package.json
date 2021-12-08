@@ -29,6 +29,10 @@
     "rollup-plugin-uglify": "^6.0.4",
     "transform-runtime": "0.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreemenL/tarojs-plugin-image-lazyloading.git"
+  },
   "devDependencies": {
     "@types/minio": "^7.0.4",
     "rollup-plugin-typescript2": "^0.25.3",
