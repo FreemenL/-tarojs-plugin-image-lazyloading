@@ -2,7 +2,6 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "prepublish": "git add .&& git commit -m'feat: new feature'",
     "publish": "cd ./packages/taro && npm run build && lerna publish "
   },
   "devDependencies": {

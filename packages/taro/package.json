@@ -1,13 +1,13 @@
 {
   "name": "taro-plugin-image-lazyload",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "taro-plugin-image-lazyloading",
   "main": "lib/packages/index.js",
   "private": false,
   "scripts": {
     "build": "node lib/prod/prod-config.js && rollup -c lib/prod/rollup.config.js"
   },
-  "author": "pijianyun@ascs.com",
+  "author": "freemenL",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.7.5",
