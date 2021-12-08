@@ -1,6 +1,6 @@
 {
   "name": "taro-plugin-image-lazyload",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "taro-plugin-image-lazyloading",
   "main": "lib/packages/index.js",
   "private": false,
