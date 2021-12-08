@@ -1,14 +1,10 @@
 {
-  "name": "@tarojs/plugin-image-lazyloading",
-  "version": "1.0.0",
-  "description": "image lazyloading",
-  "main": "index.js",
+  "name": "root",
+  "private": true,
   "scripts": {
-    "test": "test"
+    "publish": "cd ./packages/taro && npm run build && lerna publish "
   },
-  "keywords": [
-    "lazyloading"
-  ],
-  "author": "liuxiajiang",
-  "license": "ISC"
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
